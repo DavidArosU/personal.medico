@@ -17,9 +17,9 @@ Tambien sente las bases para mostrar la lista de medicos, pero parece ser que ex
 Cuando se crea un medico, crea una ip del registro al crearlo, es la prueba de que si se creo, pero a pesar de ello, las otras 2 funciones no son capaces
 de encontrar los medicos creados.
 
-Para todo esto, utilice Mongo DB para crear la coleccion de medicos, y además, utilice componentes con los cuales, trabajo la logida de ingreso y eliminacion.
+Para todo esto, utilice Mongo DB para crear la coleccion de medicos, y además, utilice componentes con los cuales, trabajo la logica de ingreso y eliminacion.
 
-Para finaliza, respondiendo a las preguntas hechas:
+Para finalizar, respondiendo a las preguntas hechas:
 
 ¿Hay alguna mejora que pueda hacer en su envío?
 
@@ -30,8 +30,8 @@ Bastantes la verdad, pude cumplir con 1 de 3 funciones vitales para el funcionam
 Con respecto a la logica no creo que hubiera cambiado mucho, ya que de haber resuelto los problemas, las 3 funciones serian, valga la redundancia, funcionales.
 Además, le hubiese dado estilo a la pagina utilizando css y bootstrap, pero como lo primordial es la funcionalidad, deje estos aspectos para el final.
 
-Finalmente quiero agradecer la oportunidad y tambien decir que si bien este proyecto ocupo mucho de mi tiempo, y que por cada 1 hora de trabajo, eran 40 minutos
-tratando de arreglar errores, me diverti bastante haciendolo. Definitivamente aprender más a fondo Meteor.
+PD: Quiero agradecer la oportunidad y tambien decir que si bien este proyecto ocupo mucho de mi tiempo, y que por cada 1 hora de trabajo, eran 40 minutos
+tratando de arreglar errores, me diverti bastante haciendolo, fue un reto muy desafiante.
 
 Gracias.
 
