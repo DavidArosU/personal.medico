@@ -3,7 +3,7 @@
 Primero que todo, quiero aclarar que no poseia conocimientos previos con respecto a Meteor o React.
 
 Sin embargo, en base a lo pedido, y el tiempo que tuve para poder realizar la prueba, siento que pude adaptarme bien.
-Dedique 1/3 partes de mi tiempo para prender sobre Meteor y sus componente, lo cual fue bastante entretenido la verda.
+Dedique 1/3 partes de mi tiempo para aprender sobre Meteor y sus componente, lo cual fue bastante entretenido la verdad.
 El resto del tiempo lo utilice para implementar lo aprendido, pero fue mas dificil de lo que crei. 
 A pesar de ello siento que pude sentar las bases para poder realizar los pedidos del proyecto.
 
